@@ -4,6 +4,8 @@ Proof of concept for reprojecting low framerate viewports into a
 high-framerate output. See [this video](https://www.youtube.com/watch?v=f8piCZz0p-Y)
 for what this is all about.
 
+:movie_camera: [**Demo video**](https://www.youtube.com/watch?v=PfhsO11A0-8)
+
 **The code here is hacky and not intended to be used as-is.** The math for
 compensating horizontal view angle changes is incorrect when looking up or down –
 feel free to open a pull request to fix this. Also, to be useful in most real
